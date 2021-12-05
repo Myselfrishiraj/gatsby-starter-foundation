@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
+title: Rishi Raj
 tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/screenshot_20211128-170109_instagram.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
