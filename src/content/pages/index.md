@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Rishi Raj
 tagline: Graphic Designer
-featuredImage: /assets/screenshot_20211128-170109_instagram.jpg
+featuredImage: /assets/alex-zr48yvupk04-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
